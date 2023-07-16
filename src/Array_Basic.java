@@ -14,4 +14,9 @@ public class Array_Basic {
 
 }
 
+//output
+// 10
+// 20
+// 40
+// 60
 
